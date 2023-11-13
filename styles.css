@@ -3,6 +3,8 @@ html{
     font-family: sans-serif;
 }
 img{
+    height: 100%;
+    width: 95%;
     display: block;
     text-align: center;
     justify-content: center;
@@ -14,6 +16,6 @@ img{
 }
 h1{
     font-size: 40px;
-    font-style: bold;
-    background-color: blue;
+    font-style: Italic;
+    background-color: purple;
 }
